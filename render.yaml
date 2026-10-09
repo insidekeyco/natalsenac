@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: natalsenac
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./
